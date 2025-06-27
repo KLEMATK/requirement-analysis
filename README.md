@@ -13,3 +13,10 @@ Identifying requirements at the beginning of the project helps prevent costly er
 
 3. Improves Product Quality and User Satisfaction
 Requirement analysis ensures the final product meets user needs and expectations. By capturing detailed input from stakeholders, the software is more likely to function correctly, be user-friendly, and solve real-world problems effectively—leading to higher satisfaction and better adoption among users.
+
+“Key Activities in Requirement Analysis.”
+1. Requirement Gathering: Engage with stakeholders to collect initial requirements. Use various techniques like interviews, surveys, and workshops.
+2. Requirement Elicitation: Refine and elaborate on the gathered requirements. Use techniques like brainstorming, focus groups, and prototyping.
+3. Requirement Documentation: Document the requirements in a detailed and structured format.Use requirement specification documents, user stories, and use cases.
+4. Requirement Analysis and Modeling: Analyze and prioritize the requirements. Create models to visualize and understand the requirements.
+5. Requirement Validation: Review and validate the requirements with stakeholders. Define acceptance criteria and ensure traceability.
