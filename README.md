@@ -81,6 +81,27 @@ It helps eliminate misunderstandings and ensures that the final product meets us
 
 Conclusion
 These five activities form a comprehensive cycle that ensures software projects are built on solid, user-centered foundations. When done correctly, they help deliver solutions that are not only functional but also aligned with business goals and user satisfaction.
+ “Types of Requirements."
+
+"Functional Requirements."
+
+Functional requirements describe the specific operations and behaviors the Booking Management System must perform. These include actions users can take, how the system responds, and the processes it automates.
+Examples for the Booking Management Project:
+•	Users must be able to create, modify, and cancel bookings through the web interface.
+•	The system shall allow administrators to approve or reject booking requests.
+•	Customers should receive email or SMS confirmations after booking is completed.
+•	The system must validate availability before confirming a booking.
+•	Logged-in users should be able to view their upcoming and past bookings.
+
+"Non-functional Requirements."
+Non-functional requirements define the quality attributes of the Booking Management System. They specify how well the system performs under various conditions rather than what it does.
+Examples for the Booking Management Project:
+•	The system should respond to user actions within 2 seconds under normal load.
+•	The application must support 24/7 availability with 99.9% uptime.
+•	All booking data must be encrypted using industry-standard protocols (e.g., HTTPS, AES).
+•	The system should scale to handle up to 5,000 concurrent users during peak hours.
+•	The interface must be mobile-responsive and support accessibility standards (WCAG 2.1).
+
 
 
   
