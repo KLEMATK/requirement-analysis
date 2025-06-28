@@ -102,6 +102,16 @@ Examples for the Booking Management Project:
 •	The system should scale to handle up to 5,000 concurrent users during peak hours.
 •	The interface must be mobile-responsive and support accessibility standards (WCAG 2.1).
 
+“Use Case Diagrams.”
+
+Use Cases
+Make Booking
+Cancel Booking
+View Booking History
+Approve Booking
+Generate Reports
+Manage Users
+
 
 
   
